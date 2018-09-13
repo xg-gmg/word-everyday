@@ -1,0 +1,81 @@
+
+/*@import url('https://fonts.googleapis.com/css?family=Montserrat');*/
+/*@font-face { font-family: "fontStyle1"; src: url('../fonts/MicroExtendFLF.ttf'); }*/
+@font-face { font-family: "fontStyle2"; src: url('../fonts/温缠小可爱体.ttf'); }
+
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    /*font-family: 'Montserrat', sans-serif;*/
+}
+
+/*
+.background {
+    width: 110%;
+    height: 110%;
+    background-image: url('img.jpeg');
+    background-size: cover;
+    position: fixed;
+    transition: top 0.2s linear, left 0.2s linear;
+}
+*/
+
+.outer {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    transition: top 0.2s linear, left 0.2s linear;
+}
+
+.inner {
+    width: 100%;
+    height: 100%;
+    display: table;
+}
+
+.cont {
+    display: table-cell;
+    vertical-align: top;/*显示位置*/
+}
+/*
+.time {
+    text-align: center;
+    font-size: 60px;
+    font-family: "fontStyle1";
+    color: white ;
+    margin-top: 13px;
+}
+
+.date {
+    text-align: center;
+    font-size: 35px;
+    font-family: "fontStyle1";
+    color: white;
+    margin-top: -13px;
+}
+*/
+.word1{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: "fontStyle2";
+    color: white;
+    margin-top: -13px;
+}
+/*
+.word2{
+    text-align:center;
+    font-size: 20px;
+    font-family: "fontStyle2";
+    color: white;
+    margin-top: -5px;
+*/
+p{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: "fontStyle2";
+    color: #255770;
+    margin-top: -13px;
+}
