@@ -1,5 +1,5 @@
-# 每日一言
-WallPaper Engine壁纸-每日一言<br>
+# 一天一言
+WallPaper Engine壁纸-一天一言<br>
 - 壁纸图片来源于网络
 - 壁纸的”一句话“模块基于“Hitokoto - 一言”（https://hitokoto.cn/）API制作
 - 壁纸创意时钟来源于网络，运行需要电脑已经安装Adobe flash，否则无法正常显示！（下载链接：https://www.flash.cn/）
